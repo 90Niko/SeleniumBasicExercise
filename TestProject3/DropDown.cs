@@ -15,7 +15,7 @@ namespace TestProject3
         [SetUp]
         public void SetUp()
         {
-            // Create object of ChromeDriver
+            // Create object of ChromeDrivers
             driver = new ChromeDriver();
 
             // Add implicit wait
